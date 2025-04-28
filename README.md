@@ -1,111 +1,122 @@
-# 🌍 GeoIntel Extractor
+# 🌐 InfraScan
 
-**GeoIntel Extractor** is a simple Python tool that uses the Overpass API to pull critical infrastructure data (energy lines, hospitals, mines, etc.) for any country and converts it into KML files. You can then open the generated KMLs in Google Earth or any other GIS software to visualize and analyze.
+**InfraScan** is a Python-based tool that fetches critical infrastructure data (power lines, hospitals, mines, government buildings, etc.) from OpenStreetMap using the Overpass API and generates KML files for easy visualization in GIS tools like Google Earth.
+
+🔗 GitHub Repository: [aligundogar/InfraScan](https://github.com/aligundogar/InfraScan.git)
 
 ---
 
 ## 🚀 Features
 
-- Fetches OpenStreetMap data via the Overpass API  
-- Converts OSM JSON to `.kml` with full geometries and tags  
-- Template-based queries: drop your Overpass QL snippets in `templates/`  
-- Country-wide extraction using ISO 3166-1 codes (e.g. `TR`, `DE`, `US`)  
-- Outputs all KML files into `kml_outputs/` in a single run  
+- Extract infrastructure data with Overpass API
+
+- Converts OSM JSON data into `.kml` files with coordinates and metadata
+
+- Template-driven architecture: easily add new data types
+
+- Supports any country via ISO 3166-1 code (e.g., `TR`, `DE`, `FR`)
+
+- Organized KML outputs ready for mapping and analysis
 
 ---
-
 ## 🛠️ Requirements
 
-- Python 3.8+  
-- [requests](https://pypi.org/project/requests/)  
-- [simplekml](https://pypi.org/project/SimpleKML/)  
+- Python 3.8+
+- [requests](https://pypi.org/project/requests/)
+- [simplekml](https://pypi.org/project/SimpleKML/)
 
-Install dependencies with:
+Install the dependencies with:
 
 ```bash
+
 pip install requests simplekml
+
 ```
+  
+---
+## ⚙️ Usage
+
+1. **Clone the repository**
+
+   ```bash
+
+   git clone https://github.com/aligundogar/InfraScan.git
+
+   cd InfraScan
+
+   ```
+
+2. **Prepare templates**
+
+   Add Overpass QL `.tpl` files inside the `templates/` directory.  
+
+   Each template must include `{country}` as a placeholder for ISO country codes.
+
+3. **Run the tool**
+
+   ```bash
+
+   python main.py
+
+   ```
+
+4. **Enter the country code**
+   Example: `TR` for Turkey, `US` for United States.
+
+5. **Find KML outputs**
+   All generated `.kml` files will be saved under the `kml_outputs/` folder.
 
 ---
-
-## ⚙️ Installation & Setup
-
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/yourusername/geointel-extractor.git
-   cd geointel-extractor
-   ```
-2. **Create your templates**  
-   Put one `.tpl` file per category in the `templates/` folder. Each template must include the placeholder `{country}`.
-
-3. **Run the script**  
-   ```bash
-   python main.py
-   ```
-4. **Enter your country code** (e.g. `TR`, `DE`, `BR`) when prompted.  
-5. **View output**  
-   All generated KMLs will appear in `kml_outputs/`.
-
----
-
 ## 📂 Project Structure
 
 ```
-.
-├── templates/         # Overpass QL template files (*.tpl)
-│   ├── powerlines.tpl
-│   ├── hospitals.tpl
-│   └── mines.tpl
-├── kml_outputs/       # Generated KML files (*.kml)
-├── main.py            # Main script
-└── README.md          # This document
+
+InfraScan/
+
+├── templates/        # Overpass QL template files (*.tpl)
+
+│   ├── power.tpl
+│   ├── telecom.tpl
+│   └── ...
+├── kml_outputs/      # Generated KML files (*.kml)
+├── main.py           # Main script
+└── README.md         # This document
+
 ```
-
+  
 ---
-
-## 📝 Template Example
-
-Below is a sample template (`templates/nuclear.tpl`) that fetches all nuclear power plants and reactors in a given country:
+## 📄 Example Template
+Example (`templates/water.tpl`):
 
 ```tpl
 [out:json][timeout:60];
-// select country boundary by ISO3166-1 code
-area["ISO3166-1"="{country}"]["boundary"="administrative"]["admin_level"="2"]->.ctry;
-
+area["ISO3166-1"="{country}"]["boundary"="administrative"]["admin_level"="2"]->.searchArea;
 (
-  // nuclear power plants
-  way["power"="plant"]["plant:source"="nuclear"](area.ctry);
-  relation["plant:source"="nuclear"](area.ctry);
-
-  // reactor generators
-  node["generator:source"="nuclear"](area.ctry);
+  node["man_made"="water_works"](area.searchArea);
+  node["man_made"="water_tower"](area.searchArea);
+  node["man_made"="reservoir_covered"](area.searchArea);
 );
-
 out body geom;
 >;
-// fetch member nodes for polygons
 out skel qt;
+
 ```
 
-**How it works**:  
-- `{country}` is replaced by your input (e.g. `TR`, `US`)  
-- `out body geom;` returns full geometries so polygons render correctly  
-- `out skel qt;` pulls in member nodes for ways/relations
+✅ `{country}` is automatically replaced at runtime.  
 
 ---
+## ⚡ Notes
 
-## ⚠️ Notes
-
-- Very large or complex templates may hit Overpass API rate limits or timeouts. You can adjust the `[timeout:60]` value as needed.  
-- Ensure each template uses the `{country}` placeholder exactly once in the `area[...]` filter.  
-- You can mix `node`, `way`, and `relation` selectors in one template to capture points, polygons, and multipolygons.
+- Overpass API may throttle large queries. Increase `[timeout:60]` if necessary.
+- Templates must correctly define the search area using `{country}` to work.
+- Both `node`, `way`, and `relation` objects are supported depending on infrastructure type.
 
 ---
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
+---
+## 👨‍💻 Author
 
-Feel free to adjust any wording or sections to suit your repository style before publishing!
+Developed by [Salva (Ali Gündoğar)](https://github.com/aligundogar) 🇹🇷
