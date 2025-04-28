@@ -1,0 +1,2885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>BTC Botaş PT-3 Pompa İstasyonu Çayırlı</name>
+            <description>industrial: oil
+landuse: industrial
+name: BTC Botaş PT-3 Pompa İstasyonu Çayırlı
+pipeline: substation
+ref: PT3
+source: bing
+substation: pumping</description>
+            <Polygon id="2">
+                <outerBoundaryIs>
+                    <LinearRing id="4">
+                        <coordinates>39.7837041,39.8759221,0.0 39.7834402,39.876604,0.0 39.7843552,39.8779679,0.0 39.7853054,39.8787038,0.0 39.7856925,39.879379,0.0 39.7884903,39.8787173,0.0 39.7895637,39.8779949,0.0 39.7892997,39.8765567,0.0 39.78981,39.8760976,0.0 39.78981,39.875733,0.0 39.7895285,39.875571,0.0 39.7886311,39.8755912,0.0 39.7872188,39.8748469,0.0 39.7866782,39.8746524,0.0 39.7863685,39.8743672,0.0 39.7860138,39.8743802,0.0 39.7841204,39.8752952,0.0 39.7837041,39.8759221,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="7">
+            <name>PS-3A</name>
+            <description>industrial: oil
+landuse: industrial
+name: PS-3A
+operator: BOTAŞ
+source: bing
+usage: transmission</description>
+            <Polygon id="6">
+                <outerBoundaryIs>
+                    <LinearRing id="8">
+                        <coordinates>41.7811655,37.3169916,0.0 41.7791435,37.3168622,0.0 41.7760592,37.3165896,0.0 41.7759516,37.3165865,0.0 41.7758959,37.316653,0.0 41.7756469,37.3176352,0.0 41.7752224,37.3211308,0.0 41.7752862,37.321229,0.0 41.7753938,37.3212607,0.0 41.77849,37.3211086,0.0 41.7786294,37.3210484,0.0 41.7787789,37.3210492,0.0 41.7789133,37.3211284,0.0 41.7814985,37.3212988,0.0 41.781623,37.321279,0.0 41.7816629,37.3212195,0.0 41.7821866,37.3171637,0.0 41.7811655,37.3169916,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="11">
+            <name>BTC Botaş PT-1 Pompa İstasyonu Posof</name>
+            <description>industrial: oil
+landuse: industrial
+name: BTC Botaş PT-1 Pompa İstasyonu Posof
+pipeline: substation
+ref: PT1
+source: bing
+substation: pumping</description>
+            <Polygon id="10">
+                <outerBoundaryIs>
+                    <LinearRing id="12">
+                        <coordinates>42.7179885,41.4591056,0.0 42.7204764,41.4583828,0.0 42.719066,41.4551317,0.0 42.7173529,41.455566,0.0 42.7161339,41.4560191,0.0 42.7141105,41.4555691,0.0 42.7141559,41.4573591,0.0 42.713445,41.4578082,0.0 42.7129722,41.4584719,0.0 42.71471,41.4583421,0.0 42.7157887,41.4581675,0.0 42.7162627,41.4581156,0.0 42.7163959,41.4581475,0.0 42.7168806,41.4589898,0.0 42.7172482,41.4589978,0.0 42.7177435,41.4591096,0.0 42.7179885,41.4591056,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="15">
+            <name>BTC Botaş PT-4 Pompa İstasyonu Altınyayla</name>
+            <description>industrial: oil
+landuse: industrial
+name: BTC Botaş PT-4 Pompa İstasyonu Altınyayla
+operator: BOTAŞ
+pipeline: substation
+ref: PT4
+source: bing
+substation: pumping</description>
+            <Polygon id="14">
+                <outerBoundaryIs>
+                    <LinearRing id="16">
+                        <coordinates>36.9194014,39.3465405,0.0 36.9201149,39.3466217,0.0 36.9207889,39.3434307,0.0 36.9194688,39.3432878,0.0 36.9179908,39.3443467,0.0 36.9178227,39.3450058,0.0 36.9175655,39.3463044,0.0 36.9194014,39.3465405,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="19">
+            <name>OPET Petrolcülük A.Ş, Körfez A Depolama ve Dağıtım Terminali</name>
+            <description>addr:city: Kocaeli
+addr:district: Yarımca Körfez
+addr:housenumber: 17
+addr:neighbourhood: Barbaros Mahallesi
+addr:postcode: 41780
+addr:street: Funda Sokak
+description: Opet Terminalleri, ham petrolün distilasyonu sonucu üretilen akaryakıtın, Türkiye’de geniş hizmet ağımızı oluşturan istasyonlarımıza ulaşmadan önceki depolama ve dağıtım işlemlerinin yapıldığı tesislerdir.
+email: info@opet.com.tr
+industrial: petroleum_terminal
+landuse: industrial
+mobile: +90 262 527 83 60
+name: OPET Petrolcülük A.Ş, Körfez A Depolama ve Dağıtım Terminali</description>
+            <Polygon id="18">
+                <outerBoundaryIs>
+                    <LinearRing id="20">
+                        <coordinates>29.7734816,40.7601413,0.0 29.7741945,40.7601488,0.0 29.7742015,40.7599994,0.0 29.7744575,40.7600113,0.0 29.7743689,40.7620774,0.0 29.7732713,40.7620518,0.0 29.7732063,40.7620081,0.0 29.7732282,40.7609081,0.0 29.7733602,40.7608832,0.0 29.7733731,40.7603899,0.0 29.7734742,40.7603946,0.0 29.7734763,40.7603215,0.0 29.7734816,40.7601413,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="23">
+            <name>TPAO Tesisleri</name>
+            <description>industrial: oil
+landuse: industrial
+name: TPAO Tesisleri
+source: mapbox</description>
+            <Polygon id="22">
+                <outerBoundaryIs>
+                    <LinearRing id="24">
+                        <coordinates>38.5849775,37.8416544,0.0 38.5843637,37.841754,0.0 38.5837499,37.8421059,0.0 38.5831614,37.8416809,0.0 38.5813285,37.8432678,0.0 38.5807316,37.8436662,0.0 38.5813958,37.8443367,0.0 38.5818162,37.8444231,0.0 38.5824467,37.8448214,0.0 38.5834136,37.8463817,0.0 38.584246,37.8462821,0.0 38.5859191,37.8462157,0.0 38.5862891,37.8428761,0.0 38.585297,37.8429225,0.0 38.5849775,37.8416544,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="27">
+            <name>TPAO Tesisi</name>
+            <description>industrial: oil
+landuse: industrial
+name: TPAO Tesisi
+source: mapbox</description>
+            <Polygon id="26">
+                <outerBoundaryIs>
+                    <LinearRing id="28">
+                        <coordinates>41.3655198,38.03921,0.0 41.3655982,38.0393809,0.0 41.3674671,38.0394237,0.0 41.3681001,38.0390106,0.0 41.3679977,38.0384788,0.0 41.3666412,38.038607,0.0 41.3655198,38.03921,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="31">
+            <name>TPAO Kampı</name>
+            <description>industrial: oil
+landuse: industrial
+name: TPAO Kampı</description>
+            <Polygon id="30">
+                <outerBoundaryIs>
+                    <LinearRing id="32">
+                        <coordinates>41.6014123,37.9344637,0.0 41.6018857,37.9340384,0.0 41.602936,37.9336466,0.0 41.6030887,37.9337508,0.0 41.6036029,37.9341777,0.0 41.6048237,37.9351629,0.0 41.6052476,37.9357504,0.0 41.6051166,37.9359455,0.0 41.6037193,37.9366572,0.0 41.6021183,37.9363588,0.0 41.602162,37.935406,0.0 41.6022784,37.935096,0.0 41.6014123,37.9344637,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="35">
+            <name>Sanofi - Zentiva - Eczacıbaşı</name>
+            <description>addr:city: Büyükkarıştıran
+addr:district: Lüleburgaz
+addr:housenumber: 223/A
+addr:neighbourhood: Küçükkarıştıran Mahallesi
+addr:postcode: 39780
+industrial: chemical
+landuse: industrial
+man_made: works
+name: Sanofi - Zentiva - Eczacıbaşı</description>
+            <Polygon id="34">
+                <outerBoundaryIs>
+                    <LinearRing id="36">
+                        <coordinates>27.5210656,41.3048385,0.0 27.516532,41.3073452,0.0 27.5171515,41.3078147,0.0 27.5160286,41.3085069,0.0 27.5147643,41.3091202,0.0 27.516342,41.3111027,0.0 27.5166049,41.3114536,0.0 27.5211971,41.3088111,0.0 27.5219143,41.3083299,0.0 27.5222107,41.3061066,0.0 27.5221151,41.3058911,0.0 27.5210656,41.3048385,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="39">
+            <name>Teco Terminal</name>
+            <description>industrial: oil
+landuse: industrial
+name: Teco Terminal</description>
+            <Polygon id="38">
+                <outerBoundaryIs>
+                    <LinearRing id="40">
+                        <coordinates>26.9379511,38.7512555,0.0 26.9384661,38.7498414,0.0 26.9401608,38.7501426,0.0 26.9395964,38.7515278,0.0 26.9379511,38.7512555,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="43">
+            <name>Petrol Ofisi Trabzon Terminal Müdürlüğü Ve Dolum Tesisi</name>
+            <description>industrial: oil
+landuse: industrial
+name: Petrol Ofisi Trabzon Terminal Müdürlüğü Ve Dolum Tesisi
+name:ar: محطة بترول أوفيسي طرابزون ومحطة تعبئة الوقود
+name:de: Petrol Ofisi Trabzon Terminaldirektion und Füllanlage Einrichtung
+name:el: Πετρόλ Όφισι Τραπεζούντα Τερματικός Διευθυντής και Εγκατάσταση Πλήρωσης
+name:en: Petrol Ofisi Trabzon Terminal Directorate And Filling Facility
+name:es: Petrol Ofisi Trabzon Dirección Terminal y Planta de Llenado
+name:fr: Direction du Terminal Petrol Ofisi Trabzon et Installation de Remplissage
+name:ka: პეტროლ ოფისის ტრეპზონის ტერმინალის დირექტორატისა და შევსების ობიექტის
+name:ru: Петрол Офиси Дирекция Трабзона Терминал И Наполнение Объект</description>
+            <Polygon id="42">
+                <outerBoundaryIs>
+                    <LinearRing id="44">
+                        <coordinates>39.8323439,40.9732251,0.0 39.8326267,40.9728359,0.0 39.8327128,40.9727577,0.0 39.832769,40.9727422,0.0 39.8330071,40.9725154,0.0 39.8329605,40.9724702,0.0 39.8331434,40.9722483,0.0 39.8334287,40.9719138,0.0 39.8336911,40.9715933,0.0 39.8338109,40.9714078,0.0 39.8341114,40.9716132,0.0 39.8350481,40.9721667,0.0 39.8353805,40.9723881,0.0 39.8351775,40.9723469,0.0 39.8348496,40.9725856,0.0 39.8347451,40.9728723,0.0 39.8349582,40.9730213,0.0 39.8351759,40.9729959,0.0 39.8351117,40.9731628,0.0 39.8349019,40.973294,0.0 39.8345779,40.9736434,0.0 39.8343318,40.9740715,0.0 39.833802,40.975193,0.0 39.8333955,40.9758907,0.0 39.8331509,40.976178,0.0 39.8329952,40.9764533,0.0 39.8329777,40.9766734,0.0 39.8330499,40.9768344,0.0 39.8328139,40.9768574,0.0 39.8327748,40.9768612,0.0 39.832615,40.976914,0.0 39.8324525,40.9770836,0.0 39.8320601,40.9770122,0.0 39.8320626,40.9766923,0.0 39.8320483,40.9763327,0.0 39.8319827,40.9757171,0.0 39.8319378,40.9750363,0.0 39.8319704,40.9744396,0.0 39.8320957,40.9738903,0.0 39.8323128,40.9734055,0.0 39.8323439,40.9732251,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="47">
+            <name>TPAO Tesisleri</name>
+            <description>industrial: oil
+landuse: industrial
+name: TPAO Tesisleri</description>
+            <Polygon id="46">
+                <outerBoundaryIs>
+                    <LinearRing id="48">
+                        <coordinates>41.4255679,37.9044886,0.0 41.4249391,37.9031584,0.0 41.4253766,37.9027629,0.0 41.427673,37.9029715,0.0 41.4290034,37.9029211,0.0 41.4292404,37.9035251,0.0 41.4305252,37.9033741,0.0 41.4313454,37.9041723,0.0 41.4322475,37.9047115,0.0 41.4322567,37.9061064,0.0 41.4321291,37.90753,0.0 41.4320197,37.9079039,0.0 41.429377,37.9063868,0.0 41.4288758,37.9042873,0.0 41.4276274,37.9046252,0.0 41.4255679,37.9044886,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="51">
+            <name>Aytemiz Trabzon Dolum Tesisi</name>
+            <description>industrial: oil
+landuse: industrial
+name: Aytemiz Trabzon Dolum Tesisi</description>
+            <Polygon id="50">
+                <outerBoundaryIs>
+                    <LinearRing id="52">
+                        <coordinates>39.9957004,40.9496173,0.0 39.9976151,40.9501252,0.0 39.9983437,40.9484604,0.0 39.9982409,40.9481712,0.0 39.9977926,40.9481712,0.0 39.9972042,40.9482911,0.0 39.996513,40.9486368,0.0 39.9961674,40.948665,0.0 39.9958499,40.9483898,0.0 39.9955603,40.9483264,0.0 39.9951307,40.9485662,0.0 39.9949999,40.9487002,0.0 39.9949532,40.9488554,0.0 39.9950093,40.9490671,0.0 39.9953082,40.9494339,0.0 39.9957004,40.9496173,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="55">
+            <name>YA-1</name>
+            <description>industrial: chemical
+landuse: industrial
+name: YA-1</description>
+            <Polygon id="54">
+                <outerBoundaryIs>
+                    <LinearRing id="56">
+                        <coordinates>29.3420578,40.8787815,0.0 29.343146,40.8780825,0.0 29.3425606,40.8776633,0.0 29.341596,40.8784806,0.0 29.3420578,40.8787815,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="59">
+            <name>Ecolab</name>
+            <description>industrial: chemical
+landuse: industrial
+name: Ecolab</description>
+            <Polygon id="58">
+                <outerBoundaryIs>
+                    <LinearRing id="60">
+                        <coordinates>29.3885861,40.8941225,0.0 29.3891619,40.8941106,0.0 29.389929,40.8942687,0.0 29.3904333,40.8944593,0.0 29.3906349,40.8944218,0.0 29.3906657,40.8943565,0.0 29.3890205,40.8932666,0.0 29.3885128,40.8929184,0.0 29.3878423,40.8940052,0.0 29.3885861,40.8941225,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="63">
+            <name>way</name>
+            <description>industrial: oil
+landuse: industrial</description>
+            <Polygon id="62">
+                <outerBoundaryIs>
+                    <LinearRing id="64">
+                        <coordinates>27.4672178,41.016822,0.0 27.4674217,41.017085,0.0 27.4664748,41.0176902,0.0 27.4658552,41.0180079,0.0 27.4654824,41.0176335,0.0 27.4661396,41.0171761,0.0 27.4667189,41.0170911,0.0 27.4672178,41.016822,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="67">
+            <name>Koruma Klor Alkali Denizli</name>
+            <description>industrial: chemical
+landuse: industrial
+name: Koruma Klor Alkali Denizli</description>
+            <Polygon id="66">
+                <outerBoundaryIs>
+                    <LinearRing id="68">
+                        <coordinates>29.3421775,37.8140674,0.0 29.3425718,37.8137436,0.0 29.3426393,37.8136083,0.0 29.3426185,37.8134853,0.0 29.3423746,37.8130303,0.0 29.3421359,37.8122105,0.0 29.3421775,37.8120014,0.0 29.3423227,37.8115341,0.0 29.3415859,37.8112635,0.0 29.3410618,37.8120219,0.0 29.3401642,37.8124113,0.0 29.3394273,37.8128663,0.0 29.3390122,37.8132394,0.0 29.3388514,37.8135222,0.0 29.3387372,37.8138461,0.0 29.3421775,37.8140674,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="71">
+            <name>Erçevikler Zeytinyağı Fabrikası</name>
+            <description>industrial: oil
+landuse: industrial
+man_made: works
+name: Erçevikler Zeytinyağı Fabrikası
+phone: +902663785214</description>
+            <Polygon id="70">
+                <outerBoundaryIs>
+                    <LinearRing id="72">
+                        <coordinates>26.8177101,39.5849766,0.0 26.8174271,39.5846138,0.0 26.8176967,39.5843224,0.0 26.8181057,39.5843947,0.0 26.8182398,39.5846056,0.0 26.8182465,39.5847864,0.0 26.8177101,39.5849766,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="75">
+            <name>Varol Zeytin ve Zeytinyağları</name>
+            <description>industrial: oil
+landuse: industrial
+man_made: works
+name: Varol Zeytin ve Zeytinyağları</description>
+            <Polygon id="74">
+                <outerBoundaryIs>
+                    <LinearRing id="76">
+                        <coordinates>26.9507731,39.6049628,0.0 26.9511259,39.6050011,0.0 26.9511326,39.6050641,0.0 26.9511098,39.6053462,0.0 26.9509824,39.605528,0.0 26.9508992,39.6055962,0.0 26.9502823,39.6053534,0.0 26.9503118,39.6052821,0.0 26.950403,39.605279,0.0 26.9507731,39.6049628,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="79">
+            <name>Ali Topuz Yağ ve Çeltik San. Tic. A.Ş.</name>
+            <description>industrial: oil
+landuse: industrial
+name: Ali Topuz Yağ ve Çeltik San. Tic. A.Ş.</description>
+            <Polygon id="78">
+                <outerBoundaryIs>
+                    <LinearRing id="80">
+                        <coordinates>26.3771499,40.9038135,0.0 26.377119,40.9036771,0.0 26.3771579,40.9034683,0.0 26.3772203,40.9032843,0.0 26.3772619,40.9032068,0.0 26.3773242,40.90315,0.0 26.3775864,40.903076,0.0 26.3778292,40.9030025,0.0 26.3780035,40.9029863,0.0 26.3780873,40.9029296,0.0 26.3781048,40.9029402,0.0 26.3781302,40.902925,0.0 26.3787197,40.9033832,0.0 26.3783334,40.9036568,0.0 26.3781001,40.9037217,0.0 26.3778198,40.9038342,0.0 26.3775435,40.9039903,0.0 26.3773611,40.9040005,0.0 26.3771499,40.9038135,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="83">
+            <name>way</name>
+            <description>industrial: chemical
+landuse: industrial</description>
+            <Polygon id="82">
+                <outerBoundaryIs>
+                    <LinearRing id="84">
+                        <coordinates>29.9958507,40.7449696,0.0 29.9960878,40.7446923,0.0 29.9967724,40.7450659,0.0 29.9972485,40.7453777,0.0 29.9972106,40.7454639,0.0 29.9971686,40.7454626,0.0 29.9967061,40.7454481,0.0 29.9966006,40.7453891,0.0 29.9964989,40.7453322,0.0 29.9958507,40.7449696,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="87">
+            <name>way</name>
+            <description>industrial: oil
+landuse: industrial</description>
+            <Polygon id="86">
+                <outerBoundaryIs>
+                    <LinearRing id="88">
+                        <coordinates>42.5414329,40.496753,0.0 42.5414239,40.4965945,0.0 42.5416372,40.4965875,0.0 42.5416462,40.496746,0.0 42.5414329,40.496753,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="91">
+            <name>Körfez Kimya</name>
+            <description>industrial: chemical
+landuse: industrial
+name: Körfez Kimya</description>
+            <Polygon id="90">
+                <outerBoundaryIs>
+                    <LinearRing id="92">
+                        <coordinates>29.8512789,40.7597334,0.0 29.851276,40.7594818,0.0 29.8512713,40.7594128,0.0 29.8512713,40.7590648,0.0 29.8512685,40.7588254,0.0 29.8512616,40.7586907,0.0 29.8512508,40.7581575,0.0 29.8512426,40.7577387,0.0 29.8512415,40.7575468,0.0 29.8518538,40.757649,0.0 29.852309,40.7577276,0.0 29.8523583,40.7597759,0.0 29.8518021,40.7597879,0.0 29.8515088,40.7597942,0.0 29.8512789,40.7597334,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="95">
+            <name>Marsa Turkey B.V CPF</name>
+            <description>industrial: oil
+landuse: industrial
+name: Marsa Turkey B.V CPF
+website: https://www.marsaturkeybvtab.com</description>
+            <Polygon id="94">
+                <outerBoundaryIs>
+                    <LinearRing id="96">
+                        <coordinates>26.8173309,40.506252,0.0 26.8170282,40.5053277,0.0 26.8170566,40.5047361,0.0 26.8195942,40.5050166,0.0 26.8190455,40.5062106,0.0 26.8173309,40.506252,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="99">
+            <name>way</name>
+            <description>industrial: oil
+landuse: industrial</description>
+            <Polygon id="98">
+                <outerBoundaryIs>
+                    <LinearRing id="100">
+                        <coordinates>27.3971385,41.1274051,0.0 27.3975804,41.1274665,0.0 27.3976918,41.1270117,0.0 27.3974662,41.1269803,0.0 27.3974377,41.1270967,0.0 27.3972213,41.1270667,0.0 27.3971385,41.1274051,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="103">
+            <name>way</name>
+            <description>industrial: oil
+landuse: industrial</description>
+            <Polygon id="102">
+                <outerBoundaryIs>
+                    <LinearRing id="104">
+                        <coordinates>26.8479949,41.3079811,0.0 26.8481125,41.3079703,0.0 26.8487549,41.3079116,0.0 26.8486047,41.3069847,0.0 26.8478447,41.3070542,0.0 26.8479949,41.3079811,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="107">
+            <name>way</name>
+            <description>industrial: oil
+landuse: industrial</description>
+            <Polygon id="106">
+                <outerBoundaryIs>
+                    <LinearRing id="108">
+                        <coordinates>27.5279725,41.4975171,0.0 27.5273729,41.4977543,0.0 27.5278235,41.498572,0.0 27.5284418,41.498395,0.0 27.5279725,41.4975171,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="111">
+            <name>way</name>
+            <description>industrial: oil
+landuse: industrial</description>
+            <Polygon id="110">
+                <outerBoundaryIs>
+                    <LinearRing id="112">
+                        <coordinates>27.5063243,41.5088726,0.0 27.5063143,41.5084529,0.0 27.5052682,41.508467,0.0 27.5052783,41.5088866,0.0 27.5063243,41.5088726,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="115">
+            <name>way</name>
+            <description>barrier: fence
+fence_type: chain_link
+industrial: oil
+landuse: industrial</description>
+            <Polygon id="114">
+                <outerBoundaryIs>
+                    <LinearRing id="116">
+                        <coordinates>27.4935329,41.5087842,0.0 27.4936241,41.5088143,0.0 27.4939714,41.5091136,0.0 27.4937998,41.5092241,0.0 27.4935959,41.509221,0.0 27.4932177,41.508976,0.0 27.4935329,41.5087842,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="119">
+            <name>way</name>
+            <description>barrier: fence
+fence_type: chain_link
+industrial: oil
+landuse: industrial</description>
+            <Polygon id="118">
+                <outerBoundaryIs>
+                    <LinearRing id="120">
+                        <coordinates>27.9185608,41.1916824,0.0 27.918588,41.1912354,0.0 27.9182065,41.1912223,0.0 27.9181793,41.1916693,0.0 27.9184779,41.1916795,0.0 27.9185608,41.1916824,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="123">
+            <name>Kumluca Zeytinyağı Fabrikası</name>
+            <description>building: industrial
+building:levels: 1
+industrial: oil_mill
+name: Kumluca Zeytinyağı Fabrikası
+phone: +90 242 887 75 34
+produce: olive_oil;soap</description>
+            <Polygon id="122">
+                <outerBoundaryIs>
+                    <LinearRing id="124">
+                        <coordinates>30.3286266,36.3719809,0.0 30.3286237,36.3719162,0.0 30.3287843,36.3717181,0.0 30.3290258,36.3718451,0.0 30.3288293,36.3720874,0.0 30.3286266,36.3719809,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="127">
+            <name>Koruma Klor Çorlu-Ulaş Depo</name>
+            <description>industrial: chemical
+landuse: industrial
+name: Koruma Klor Çorlu-Ulaş Depo</description>
+            <Polygon id="126">
+                <outerBoundaryIs>
+                    <LinearRing id="128">
+                        <coordinates>27.7345875,41.2159287,0.0 27.733572,41.2170418,0.0 27.7335366,41.217019,0.0 27.7335129,41.2170038,0.0 27.7334927,41.2169931,0.0 27.7334692,41.2169805,0.0 27.7334272,41.2169594,0.0 27.7330163,41.2167383,0.0 27.7329947,41.2167268,0.0 27.7330099,41.2167098,0.0 27.7340152,41.2155861,0.0 27.7345875,41.2159287,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="131">
+            <name>Koruma Klor Kırıkhan Fabrikası</name>
+            <description>industrial: chemical
+landuse: industrial
+name: Koruma Klor Kırıkhan Fabrikası</description>
+            <Polygon id="130">
+                <outerBoundaryIs>
+                    <LinearRing id="132">
+                        <coordinates>36.373837,36.5272842,0.0 36.372394,36.5278359,0.0 36.3721633,36.5276377,0.0 36.3718736,36.5274911,0.0 36.3716054,36.5273144,0.0 36.3714337,36.5271161,0.0 36.3705003,36.5244175,0.0 36.3722598,36.5240769,0.0 36.3723993,36.5242925,0.0 36.372984,36.5241718,0.0 36.3735261,36.5261656,0.0 36.3738209,36.5272497,0.0 36.373837,36.5272842,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="135">
+            <name>node</name>
+            <description/>
+            <Point id="134">
+                <coordinates>26.8182465,39.5847864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="137">
+            <name>node</name>
+            <description/>
+            <Point id="136">
+                <coordinates>26.8182398,39.5846056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="139">
+            <name>node</name>
+            <description/>
+            <Point id="138">
+                <coordinates>26.8181057,39.5843947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>node</name>
+            <description/>
+            <Point id="140">
+                <coordinates>26.8176967,39.5843224,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>node</name>
+            <description/>
+            <Point id="142">
+                <coordinates>26.8174271,39.5846138,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="145">
+            <name>node</name>
+            <description/>
+            <Point id="144">
+                <coordinates>26.8177101,39.5849766,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>node</name>
+            <description/>
+            <Point id="146">
+                <coordinates>26.8170566,40.5047361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="149">
+            <name>node</name>
+            <description/>
+            <Point id="148">
+                <coordinates>26.8170282,40.5053277,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="151">
+            <name>node</name>
+            <description/>
+            <Point id="150">
+                <coordinates>26.8173309,40.506252,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>node</name>
+            <description/>
+            <Point id="152">
+                <coordinates>26.8190455,40.5062106,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <name>node</name>
+            <description/>
+            <Point id="154">
+                <coordinates>26.8195942,40.5050166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>node</name>
+            <description/>
+            <Point id="156">
+                <coordinates>26.3773611,40.9040005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>node</name>
+            <description/>
+            <Point id="158">
+                <coordinates>26.3775435,40.9039903,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161">
+            <name>node</name>
+            <description/>
+            <Point id="160">
+                <coordinates>26.3778198,40.9038342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>node</name>
+            <description/>
+            <Point id="162">
+                <coordinates>26.3781001,40.9037217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>node</name>
+            <description/>
+            <Point id="164">
+                <coordinates>26.3781302,40.902925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="167">
+            <name>node</name>
+            <description/>
+            <Point id="166">
+                <coordinates>26.3781048,40.9029402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="169">
+            <name>node</name>
+            <description/>
+            <Point id="168">
+                <coordinates>26.3780873,40.9029296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="171">
+            <name>node</name>
+            <description/>
+            <Point id="170">
+                <coordinates>26.3780035,40.9029863,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>node</name>
+            <description/>
+            <Point id="172">
+                <coordinates>26.3778292,40.9030025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="175">
+            <name>node</name>
+            <description/>
+            <Point id="174">
+                <coordinates>26.3775864,40.903076,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="177">
+            <name>node</name>
+            <description/>
+            <Point id="176">
+                <coordinates>26.3773242,40.90315,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="179">
+            <name>node</name>
+            <description/>
+            <Point id="178">
+                <coordinates>26.3772619,40.9032068,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="181">
+            <name>node</name>
+            <description/>
+            <Point id="180">
+                <coordinates>26.3772203,40.9032843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>node</name>
+            <description/>
+            <Point id="182">
+                <coordinates>26.3771579,40.9034683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="185">
+            <name>node</name>
+            <description/>
+            <Point id="184">
+                <coordinates>26.377119,40.9036771,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="187">
+            <name>node</name>
+            <description/>
+            <Point id="186">
+                <coordinates>26.3771499,40.9038135,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="189">
+            <name>node</name>
+            <description/>
+            <Point id="188">
+                <coordinates>26.3783334,40.9036568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="191">
+            <name>node</name>
+            <description/>
+            <Point id="190">
+                <coordinates>26.3787197,40.9033832,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
+            <name>node</name>
+            <description/>
+            <Point id="192">
+                <coordinates>30.3286266,36.3719809,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="195">
+            <name>node</name>
+            <description/>
+            <Point id="194">
+                <coordinates>30.3286237,36.3719162,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="197">
+            <name>node</name>
+            <description/>
+            <Point id="196">
+                <coordinates>30.3287843,36.3717181,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="199">
+            <name>node</name>
+            <description/>
+            <Point id="198">
+                <coordinates>30.3290258,36.3718451,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="201">
+            <name>node</name>
+            <description/>
+            <Point id="200">
+                <coordinates>30.3288293,36.3720874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="203">
+            <name>node</name>
+            <description/>
+            <Point id="202">
+                <coordinates>29.3401642,37.8124113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="205">
+            <name>node</name>
+            <description/>
+            <Point id="204">
+                <coordinates>29.3394273,37.8128663,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="207">
+            <name>node</name>
+            <description/>
+            <Point id="206">
+                <coordinates>29.3390122,37.8132394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="209">
+            <name>node</name>
+            <description/>
+            <Point id="208">
+                <coordinates>29.3388514,37.8135222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="211">
+            <name>node</name>
+            <description/>
+            <Point id="210">
+                <coordinates>29.3387372,37.8138461,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>node</name>
+            <description/>
+            <Point id="212">
+                <coordinates>29.3421775,37.8140674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="215">
+            <name>node</name>
+            <description/>
+            <Point id="214">
+                <coordinates>29.3425718,37.8137436,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="217">
+            <name>node</name>
+            <description/>
+            <Point id="216">
+                <coordinates>29.3426393,37.8136083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="219">
+            <name>node</name>
+            <description/>
+            <Point id="218">
+                <coordinates>29.3426185,37.8134853,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="221">
+            <name>node</name>
+            <description/>
+            <Point id="220">
+                <coordinates>29.3423746,37.8130303,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="223">
+            <name>node</name>
+            <description/>
+            <Point id="222">
+                <coordinates>29.3421359,37.8122105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="225">
+            <name>node</name>
+            <description/>
+            <Point id="224">
+                <coordinates>29.3421775,37.8120014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="227">
+            <name>node</name>
+            <description/>
+            <Point id="226">
+                <coordinates>29.3423227,37.8115341,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="229">
+            <name>node</name>
+            <description/>
+            <Point id="228">
+                <coordinates>29.3415859,37.8112635,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="231">
+            <name>node</name>
+            <description/>
+            <Point id="230">
+                <coordinates>29.3410618,37.8120219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="233">
+            <name>node</name>
+            <description/>
+            <Point id="232">
+                <coordinates>26.9384661,38.7498414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="235">
+            <name>node</name>
+            <description/>
+            <Point id="234">
+                <coordinates>26.9395964,38.7515278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="237">
+            <name>node</name>
+            <description/>
+            <Point id="236">
+                <coordinates>26.9401608,38.7501426,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="239">
+            <name>node</name>
+            <description/>
+            <Point id="238">
+                <coordinates>26.9379511,38.7512555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="241">
+            <name>node</name>
+            <description/>
+            <Point id="240">
+                <coordinates>26.950403,39.605279,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="243">
+            <name>node</name>
+            <description/>
+            <Point id="242">
+                <coordinates>26.9503118,39.6052821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="245">
+            <name>node</name>
+            <description/>
+            <Point id="244">
+                <coordinates>26.9502823,39.6053534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="247">
+            <name>node</name>
+            <description/>
+            <Point id="246">
+                <coordinates>26.9508992,39.6055962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="249">
+            <name>node</name>
+            <description/>
+            <Point id="248">
+                <coordinates>26.9509824,39.605528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="251">
+            <name>node</name>
+            <description/>
+            <Point id="250">
+                <coordinates>26.9511098,39.6053462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="253">
+            <name>node</name>
+            <description/>
+            <Point id="252">
+                <coordinates>26.9511326,39.6050641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="255">
+            <name>node</name>
+            <description/>
+            <Point id="254">
+                <coordinates>26.9511259,39.6050011,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="257">
+            <name>node</name>
+            <description/>
+            <Point id="256">
+                <coordinates>26.9507731,39.6049628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="259">
+            <name>node</name>
+            <description/>
+            <Point id="258">
+                <coordinates>27.4658552,41.0180079,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="261">
+            <name>node</name>
+            <description/>
+            <Point id="260">
+                <coordinates>27.4654824,41.0176335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="263">
+            <name>node</name>
+            <description/>
+            <Point id="262">
+                <coordinates>27.4672178,41.016822,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="265">
+            <name>node</name>
+            <description/>
+            <Point id="264">
+                <coordinates>27.4674217,41.017085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="267">
+            <name>node</name>
+            <description/>
+            <Point id="266">
+                <coordinates>27.4664748,41.0176902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="269">
+            <name>node</name>
+            <description/>
+            <Point id="268">
+                <coordinates>27.4661396,41.0171761,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="271">
+            <name>node</name>
+            <description/>
+            <Point id="270">
+                <coordinates>27.4667189,41.0170911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="273">
+            <name>node</name>
+            <description/>
+            <Point id="272">
+                <coordinates>26.8481125,41.3079703,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="275">
+            <name>node</name>
+            <description/>
+            <Point id="274">
+                <coordinates>26.8487549,41.3079116,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="277">
+            <name>node</name>
+            <description/>
+            <Point id="276">
+                <coordinates>26.8486047,41.3069847,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="279">
+            <name>node</name>
+            <description/>
+            <Point id="278">
+                <coordinates>26.8478447,41.3070542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="281">
+            <name>node</name>
+            <description/>
+            <Point id="280">
+                <coordinates>26.8479949,41.3079811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="283">
+            <name>node</name>
+            <description/>
+            <Point id="282">
+                <coordinates>27.3974662,41.1269803,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="285">
+            <name>node</name>
+            <description/>
+            <Point id="284">
+                <coordinates>27.3974377,41.1270967,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="287">
+            <name>node</name>
+            <description/>
+            <Point id="286">
+                <coordinates>27.3976918,41.1270117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="289">
+            <name>node</name>
+            <description/>
+            <Point id="288">
+                <coordinates>27.3972213,41.1270667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="291">
+            <name>node</name>
+            <description/>
+            <Point id="290">
+                <coordinates>27.3975804,41.1274665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="293">
+            <name>node</name>
+            <description/>
+            <Point id="292">
+                <coordinates>27.3971385,41.1274051,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="295">
+            <name>node</name>
+            <description/>
+            <Point id="294">
+                <coordinates>27.516532,41.3073452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="297">
+            <name>node</name>
+            <description/>
+            <Point id="296">
+                <coordinates>27.5171515,41.3078147,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="299">
+            <name>node</name>
+            <description/>
+            <Point id="298">
+                <coordinates>27.5147643,41.3091202,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="301">
+            <name>node</name>
+            <description/>
+            <Point id="300">
+                <coordinates>27.5160286,41.3085069,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="303">
+            <name>node</name>
+            <description/>
+            <Point id="302">
+                <coordinates>27.5210656,41.3048385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="305">
+            <name>node</name>
+            <description/>
+            <Point id="304">
+                <coordinates>27.5211971,41.3088111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="307">
+            <name>node</name>
+            <description/>
+            <Point id="306">
+                <coordinates>27.5219143,41.3083299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="309">
+            <name>node</name>
+            <description/>
+            <Point id="308">
+                <coordinates>27.5222107,41.3061066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="311">
+            <name>node</name>
+            <description/>
+            <Point id="310">
+                <coordinates>27.5221151,41.3058911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="313">
+            <name>node</name>
+            <description/>
+            <Point id="312">
+                <coordinates>27.516342,41.3111027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="315">
+            <name>node</name>
+            <description/>
+            <Point id="314">
+                <coordinates>27.5166049,41.3114536,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="317">
+            <name>node</name>
+            <description/>
+            <Point id="316">
+                <coordinates>27.4932177,41.508976,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="319">
+            <name>node</name>
+            <description/>
+            <Point id="318">
+                <coordinates>27.4935959,41.509221,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="321">
+            <name>node</name>
+            <description/>
+            <Point id="320">
+                <coordinates>27.4937998,41.5092241,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="323">
+            <name>node</name>
+            <description/>
+            <Point id="322">
+                <coordinates>27.4939714,41.5091136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="325">
+            <name>node</name>
+            <description/>
+            <Point id="324">
+                <coordinates>27.4936241,41.5088143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="327">
+            <name>node</name>
+            <description/>
+            <Point id="326">
+                <coordinates>27.4935329,41.5087842,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="329">
+            <name>node</name>
+            <description/>
+            <Point id="328">
+                <coordinates>27.5052682,41.508467,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="331">
+            <name>node</name>
+            <description/>
+            <Point id="330">
+                <coordinates>27.5052783,41.5088866,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="333">
+            <name>node</name>
+            <description/>
+            <Point id="332">
+                <coordinates>27.5063143,41.5084529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="335">
+            <name>node</name>
+            <description/>
+            <Point id="334">
+                <coordinates>27.5063243,41.5088726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="337">
+            <name>node</name>
+            <description/>
+            <Point id="336">
+                <coordinates>27.5273729,41.4977543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="339">
+            <name>node</name>
+            <description/>
+            <Point id="338">
+                <coordinates>27.5278235,41.498572,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="341">
+            <name>node</name>
+            <description/>
+            <Point id="340">
+                <coordinates>27.5284418,41.498395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="343">
+            <name>node</name>
+            <description/>
+            <Point id="342">
+                <coordinates>27.5279725,41.4975171,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="345">
+            <name>node</name>
+            <description/>
+            <Point id="344">
+                <coordinates>27.7334692,41.2169805,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="347">
+            <name>node</name>
+            <description/>
+            <Point id="346">
+                <coordinates>27.7330163,41.2167383,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="349">
+            <name>node</name>
+            <description/>
+            <Point id="348">
+                <coordinates>27.7330099,41.2167098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="351">
+            <name>node</name>
+            <description/>
+            <Point id="350">
+                <coordinates>27.7335366,41.217019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="353">
+            <name>node</name>
+            <description/>
+            <Point id="352">
+                <coordinates>27.7334272,41.2169594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="355">
+            <name>node</name>
+            <description/>
+            <Point id="354">
+                <coordinates>27.7345875,41.2159287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="357">
+            <name>node</name>
+            <description/>
+            <Point id="356">
+                <coordinates>27.733572,41.2170418,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="359">
+            <name>node</name>
+            <description/>
+            <Point id="358">
+                <coordinates>27.7329947,41.2167268,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="361">
+            <name>node</name>
+            <description/>
+            <Point id="360">
+                <coordinates>27.7340152,41.2155861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="363">
+            <name>node</name>
+            <description/>
+            <Point id="362">
+                <coordinates>27.7335129,41.2170038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="365">
+            <name>node</name>
+            <description/>
+            <Point id="364">
+                <coordinates>27.7334927,41.2169931,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="367">
+            <name>node</name>
+            <description/>
+            <Point id="366">
+                <coordinates>27.9181793,41.1916693,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="369">
+            <name>node</name>
+            <description/>
+            <Point id="368">
+                <coordinates>27.9182065,41.1912223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="371">
+            <name>node</name>
+            <description/>
+            <Point id="370">
+                <coordinates>27.9184779,41.1916795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="373">
+            <name>node</name>
+            <description/>
+            <Point id="372">
+                <coordinates>27.918588,41.1912354,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="375">
+            <name>node</name>
+            <description/>
+            <Point id="374">
+                <coordinates>27.9185608,41.1916824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="377">
+            <name>node</name>
+            <description/>
+            <Point id="376">
+                <coordinates>29.343146,40.8780825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="379">
+            <name>node</name>
+            <description/>
+            <Point id="378">
+                <coordinates>29.3425606,40.8776633,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="381">
+            <name>node</name>
+            <description/>
+            <Point id="380">
+                <coordinates>29.3420578,40.8787815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="383">
+            <name>node</name>
+            <description/>
+            <Point id="382">
+                <coordinates>29.341596,40.8784806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="385">
+            <name>node</name>
+            <description/>
+            <Point id="384">
+                <coordinates>29.3890205,40.8932666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="387">
+            <name>node</name>
+            <description/>
+            <Point id="386">
+                <coordinates>29.3906349,40.8944218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="389">
+            <name>node</name>
+            <description/>
+            <Point id="388">
+                <coordinates>29.3906657,40.8943565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="391">
+            <name>node</name>
+            <description/>
+            <Point id="390">
+                <coordinates>29.3885861,40.8941225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="393">
+            <name>node</name>
+            <description/>
+            <Point id="392">
+                <coordinates>29.3891619,40.8941106,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="395">
+            <name>node</name>
+            <description/>
+            <Point id="394">
+                <coordinates>29.389929,40.8942687,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="397">
+            <name>node</name>
+            <description/>
+            <Point id="396">
+                <coordinates>29.3904333,40.8944593,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="399">
+            <name>node</name>
+            <description/>
+            <Point id="398">
+                <coordinates>29.3885128,40.8929184,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="401">
+            <name>node</name>
+            <description/>
+            <Point id="400">
+                <coordinates>29.3878423,40.8940052,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="403">
+            <name>node</name>
+            <description/>
+            <Point id="402">
+                <coordinates>29.7742015,40.7599994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="405">
+            <name>node</name>
+            <description/>
+            <Point id="404">
+                <coordinates>29.7744575,40.7600113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="407">
+            <name>node</name>
+            <description/>
+            <Point id="406">
+                <coordinates>29.7734816,40.7601413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="409">
+            <name>node</name>
+            <description/>
+            <Point id="408">
+                <coordinates>29.7741945,40.7601488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="411">
+            <name>node</name>
+            <description/>
+            <Point id="410">
+                <coordinates>29.7733731,40.7603899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="413">
+            <name>node</name>
+            <description/>
+            <Point id="412">
+                <coordinates>29.7734742,40.7603946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="415">
+            <name>node</name>
+            <description/>
+            <Point id="414">
+                <coordinates>29.7733602,40.7608832,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="417">
+            <name>node</name>
+            <description/>
+            <Point id="416">
+                <coordinates>29.7732282,40.7609081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="419">
+            <name>node</name>
+            <description/>
+            <Point id="418">
+                <coordinates>29.7732063,40.7620081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="421">
+            <name>node</name>
+            <description/>
+            <Point id="420">
+                <coordinates>29.7732713,40.7620518,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="423">
+            <name>node</name>
+            <description/>
+            <Point id="422">
+                <coordinates>29.7743689,40.7620774,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="425">
+            <name>node</name>
+            <description/>
+            <Point id="424">
+                <coordinates>29.7734763,40.7603215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="427">
+            <name>node</name>
+            <description/>
+            <Point id="426">
+                <coordinates>29.8512789,40.7597334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="429">
+            <name>node</name>
+            <description/>
+            <Point id="428">
+                <coordinates>29.8512685,40.7588254,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="431">
+            <name>node</name>
+            <description/>
+            <Point id="430">
+                <coordinates>29.8512508,40.7581575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="433">
+            <name>node</name>
+            <description/>
+            <Point id="432">
+                <coordinates>29.8512426,40.7577387,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="435">
+            <name>node</name>
+            <description/>
+            <Point id="434">
+                <coordinates>29.8515088,40.7597942,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="437">
+            <name>node</name>
+            <description/>
+            <Point id="436">
+                <coordinates>29.8512713,40.7594128,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="439">
+            <name>node</name>
+            <description/>
+            <Point id="438">
+                <coordinates>29.8512713,40.7590648,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="441">
+            <name>node</name>
+            <description/>
+            <Point id="440">
+                <coordinates>29.8512616,40.7586907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="443">
+            <name>node</name>
+            <description/>
+            <Point id="442">
+                <coordinates>29.851276,40.7594818,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="445">
+            <name>node</name>
+            <description/>
+            <Point id="444">
+                <coordinates>29.8512415,40.7575468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="447">
+            <name>node</name>
+            <description/>
+            <Point id="446">
+                <coordinates>29.8518538,40.757649,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="449">
+            <name>node</name>
+            <description/>
+            <Point id="448">
+                <coordinates>29.852309,40.7577276,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="451">
+            <name>node</name>
+            <description/>
+            <Point id="450">
+                <coordinates>29.8523583,40.7597759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="453">
+            <name>node</name>
+            <description/>
+            <Point id="452">
+                <coordinates>29.8518021,40.7597879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="455">
+            <name>node</name>
+            <description/>
+            <Point id="454">
+                <coordinates>29.9958507,40.7449696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="457">
+            <name>node</name>
+            <description/>
+            <Point id="456">
+                <coordinates>29.9960878,40.7446923,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="459">
+            <name>node</name>
+            <description/>
+            <Point id="458">
+                <coordinates>29.9967724,40.7450659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="461">
+            <name>node</name>
+            <description/>
+            <Point id="460">
+                <coordinates>29.9972485,40.7453777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="463">
+            <name>node</name>
+            <description/>
+            <Point id="462">
+                <coordinates>29.9972106,40.7454639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="465">
+            <name>node</name>
+            <description/>
+            <Point id="464">
+                <coordinates>29.9967061,40.7454481,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="467">
+            <name>node</name>
+            <description/>
+            <Point id="466">
+                <coordinates>29.9964989,40.7453322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="469">
+            <name>node</name>
+            <description/>
+            <Point id="468">
+                <coordinates>29.9966006,40.7453891,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="471">
+            <name>node</name>
+            <description/>
+            <Point id="470">
+                <coordinates>29.9971686,40.7454626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="473">
+            <name>node</name>
+            <description/>
+            <Point id="472">
+                <coordinates>36.3705003,36.5244175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="475">
+            <name>node</name>
+            <description/>
+            <Point id="474">
+                <coordinates>36.3722598,36.5240769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="477">
+            <name>node</name>
+            <description/>
+            <Point id="476">
+                <coordinates>36.3723993,36.5242925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="479">
+            <name>node</name>
+            <description/>
+            <Point id="478">
+                <coordinates>36.372394,36.5278359,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="481">
+            <name>node</name>
+            <description/>
+            <Point id="480">
+                <coordinates>36.3721633,36.5276377,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="483">
+            <name>node</name>
+            <description/>
+            <Point id="482">
+                <coordinates>36.3718736,36.5274911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="485">
+            <name>node</name>
+            <description/>
+            <Point id="484">
+                <coordinates>36.3716054,36.5273144,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="487">
+            <name>node</name>
+            <description/>
+            <Point id="486">
+                <coordinates>36.3714337,36.5271161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="489">
+            <name>node</name>
+            <description/>
+            <Point id="488">
+                <coordinates>36.372984,36.5241718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="491">
+            <name>node</name>
+            <description/>
+            <Point id="490">
+                <coordinates>36.3735261,36.5261656,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="493">
+            <name>node</name>
+            <description/>
+            <Point id="492">
+                <coordinates>36.373837,36.5272842,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="495">
+            <name>node</name>
+            <description/>
+            <Point id="494">
+                <coordinates>36.3738209,36.5272497,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="497">
+            <name>node</name>
+            <description/>
+            <Point id="496">
+                <coordinates>38.5807316,37.8436662,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="499">
+            <name>node</name>
+            <description/>
+            <Point id="498">
+                <coordinates>38.5849775,37.8416544,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="501">
+            <name>node</name>
+            <description/>
+            <Point id="500">
+                <coordinates>38.5831614,37.8416809,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="503">
+            <name>node</name>
+            <description/>
+            <Point id="502">
+                <coordinates>38.5843637,37.841754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="505">
+            <name>node</name>
+            <description/>
+            <Point id="504">
+                <coordinates>38.5837499,37.8421059,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="507">
+            <name>node</name>
+            <description/>
+            <Point id="506">
+                <coordinates>38.5862891,37.8428761,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="509">
+            <name>node</name>
+            <description/>
+            <Point id="508">
+                <coordinates>38.585297,37.8429225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="511">
+            <name>node</name>
+            <description/>
+            <Point id="510">
+                <coordinates>38.5813285,37.8432678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="513">
+            <name>node</name>
+            <description/>
+            <Point id="512">
+                <coordinates>38.5813958,37.8443367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="515">
+            <name>node</name>
+            <description/>
+            <Point id="514">
+                <coordinates>38.5818162,37.8444231,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="517">
+            <name>node</name>
+            <description/>
+            <Point id="516">
+                <coordinates>38.5824467,37.8448214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="519">
+            <name>node</name>
+            <description/>
+            <Point id="518">
+                <coordinates>38.5859191,37.8462157,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="521">
+            <name>node</name>
+            <description/>
+            <Point id="520">
+                <coordinates>38.584246,37.8462821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="523">
+            <name>node</name>
+            <description/>
+            <Point id="522">
+                <coordinates>38.5834136,37.8463817,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="525">
+            <name>node</name>
+            <description/>
+            <Point id="524">
+                <coordinates>36.9194688,39.3432878,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="527">
+            <name>node</name>
+            <description/>
+            <Point id="526">
+                <coordinates>36.9207889,39.3434307,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="529">
+            <name>node</name>
+            <description/>
+            <Point id="528">
+                <coordinates>36.9179908,39.3443467,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="531">
+            <name>node</name>
+            <description/>
+            <Point id="530">
+                <coordinates>36.9178227,39.3450058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="533">
+            <name>node</name>
+            <description/>
+            <Point id="532">
+                <coordinates>36.9201149,39.3466217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="535">
+            <name>node</name>
+            <description/>
+            <Point id="534">
+                <coordinates>36.9175655,39.3463044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="537">
+            <name>node</name>
+            <description/>
+            <Point id="536">
+                <coordinates>36.9194014,39.3465405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="539">
+            <name>node</name>
+            <description/>
+            <Point id="538">
+                <coordinates>39.7866782,39.8746524,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="541">
+            <name>node</name>
+            <description/>
+            <Point id="540">
+                <coordinates>39.7863685,39.8743672,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="543">
+            <name>node</name>
+            <description/>
+            <Point id="542">
+                <coordinates>39.7860138,39.8743802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="545">
+            <name>node</name>
+            <description/>
+            <Point id="544">
+                <coordinates>39.7841204,39.8752952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="547">
+            <name>node</name>
+            <description/>
+            <Point id="546">
+                <coordinates>39.7872188,39.8748469,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="549">
+            <name>node</name>
+            <description/>
+            <Point id="548">
+                <coordinates>39.7843552,39.8779679,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="551">
+            <name>node</name>
+            <description/>
+            <Point id="550">
+                <coordinates>39.7837041,39.8759221,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="553">
+            <name>node</name>
+            <description/>
+            <Point id="552">
+                <coordinates>39.7853054,39.8787038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="555">
+            <name>node</name>
+            <description/>
+            <Point id="554">
+                <coordinates>39.7856925,39.879379,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="557">
+            <name>node</name>
+            <description/>
+            <Point id="556">
+                <coordinates>39.7834402,39.876604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="559">
+            <name>node</name>
+            <description/>
+            <Point id="558">
+                <coordinates>39.7892997,39.8765567,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="561">
+            <name>node</name>
+            <description/>
+            <Point id="560">
+                <coordinates>39.78981,39.8760976,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="563">
+            <name>node</name>
+            <description/>
+            <Point id="562">
+                <coordinates>39.7895285,39.875571,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="565">
+            <name>node</name>
+            <description/>
+            <Point id="564">
+                <coordinates>39.78981,39.875733,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="567">
+            <name>node</name>
+            <description/>
+            <Point id="566">
+                <coordinates>39.7884903,39.8787173,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="569">
+            <name>node</name>
+            <description/>
+            <Point id="568">
+                <coordinates>39.7886311,39.8755912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="571">
+            <name>node</name>
+            <description/>
+            <Point id="570">
+                <coordinates>39.7895637,39.8779949,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="573">
+            <name>node</name>
+            <description/>
+            <Point id="572">
+                <coordinates>39.8323439,40.9732251,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="575">
+            <name>node</name>
+            <description/>
+            <Point id="574">
+                <coordinates>39.8319827,40.9757171,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="577">
+            <name>node</name>
+            <description/>
+            <Point id="576">
+                <coordinates>39.8323128,40.9734055,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="579">
+            <name>node</name>
+            <description/>
+            <Point id="578">
+                <coordinates>39.8319378,40.9750363,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="581">
+            <name>node</name>
+            <description/>
+            <Point id="580">
+                <coordinates>39.8326267,40.9728359,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="583">
+            <name>node</name>
+            <description/>
+            <Point id="582">
+                <coordinates>39.8320957,40.9738903,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="585">
+            <name>node</name>
+            <description/>
+            <Point id="584">
+                <coordinates>39.8319704,40.9744396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="587">
+            <name>node</name>
+            <description/>
+            <Point id="586">
+                <coordinates>39.8320483,40.9763327,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="589">
+            <name>node</name>
+            <description/>
+            <Point id="588">
+                <coordinates>39.832769,40.9727422,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="591">
+            <name>node</name>
+            <description/>
+            <Point id="590">
+                <coordinates>39.8327128,40.9727577,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="593">
+            <name>node</name>
+            <description/>
+            <Point id="592">
+                <coordinates>39.8336911,40.9715933,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="595">
+            <name>node</name>
+            <description/>
+            <Point id="594">
+                <coordinates>39.8353805,40.9723881,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="597">
+            <name>node</name>
+            <description/>
+            <Point id="596">
+                <coordinates>39.8347451,40.9728723,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="599">
+            <name>node</name>
+            <description/>
+            <Point id="598">
+                <coordinates>39.8351759,40.9729959,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="601">
+            <name>node</name>
+            <description/>
+            <Point id="600">
+                <coordinates>39.8345779,40.9736434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="603">
+            <name>node</name>
+            <description/>
+            <Point id="602">
+                <coordinates>39.8343318,40.9740715,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="605">
+            <name>node</name>
+            <description/>
+            <Point id="604">
+                <coordinates>39.833802,40.975193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="607">
+            <name>node</name>
+            <description/>
+            <Point id="606">
+                <coordinates>39.8331434,40.9722483,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="609">
+            <name>node</name>
+            <description/>
+            <Point id="608">
+                <coordinates>39.8350481,40.9721667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="611">
+            <name>node</name>
+            <description/>
+            <Point id="610">
+                <coordinates>39.8341114,40.9716132,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="613">
+            <name>node</name>
+            <description/>
+            <Point id="612">
+                <coordinates>39.8338109,40.9714078,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="615">
+            <name>node</name>
+            <description/>
+            <Point id="614">
+                <coordinates>39.8333955,40.9758907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="617">
+            <name>node</name>
+            <description/>
+            <Point id="616">
+                <coordinates>39.8349582,40.9730213,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="619">
+            <name>node</name>
+            <description/>
+            <Point id="618">
+                <coordinates>39.8348496,40.9725856,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="621">
+            <name>node</name>
+            <description/>
+            <Point id="620">
+                <coordinates>39.8351775,40.9723469,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="623">
+            <name>node</name>
+            <description/>
+            <Point id="622">
+                <coordinates>39.8351117,40.9731628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="625">
+            <name>node</name>
+            <description/>
+            <Point id="624">
+                <coordinates>39.8349019,40.973294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="627">
+            <name>node</name>
+            <description/>
+            <Point id="626">
+                <coordinates>39.8329605,40.9724702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="629">
+            <name>node</name>
+            <description/>
+            <Point id="628">
+                <coordinates>39.8330071,40.9725154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="631">
+            <name>node</name>
+            <description/>
+            <Point id="630">
+                <coordinates>39.8331509,40.976178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="633">
+            <name>node</name>
+            <description/>
+            <Point id="632">
+                <coordinates>39.8334287,40.9719138,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="635">
+            <name>node</name>
+            <description/>
+            <Point id="634">
+                <coordinates>39.832615,40.976914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="637">
+            <name>node</name>
+            <description/>
+            <Point id="636">
+                <coordinates>39.8320601,40.9770122,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="639">
+            <name>node</name>
+            <description/>
+            <Point id="638">
+                <coordinates>39.8320626,40.9766923,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="641">
+            <name>node</name>
+            <description/>
+            <Point id="640">
+                <coordinates>39.8324525,40.9770836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="643">
+            <name>node</name>
+            <description/>
+            <Point id="642">
+                <coordinates>39.8327748,40.9768612,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="645">
+            <name>node</name>
+            <description/>
+            <Point id="644">
+                <coordinates>39.8329777,40.9766734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="647">
+            <name>node</name>
+            <description/>
+            <Point id="646">
+                <coordinates>39.8330499,40.9768344,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="649">
+            <name>node</name>
+            <description/>
+            <Point id="648">
+                <coordinates>39.8329952,40.9764533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="651">
+            <name>node</name>
+            <description/>
+            <Point id="650">
+                <coordinates>39.8328139,40.9768574,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="653">
+            <name>node</name>
+            <description/>
+            <Point id="652">
+                <coordinates>39.9957004,40.9496173,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="655">
+            <name>node</name>
+            <description/>
+            <Point id="654">
+                <coordinates>39.996513,40.9486368,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="657">
+            <name>node</name>
+            <description/>
+            <Point id="656">
+                <coordinates>39.9961674,40.948665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="659">
+            <name>node</name>
+            <description/>
+            <Point id="658">
+                <coordinates>39.9958499,40.9483898,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="661">
+            <name>node</name>
+            <description/>
+            <Point id="660">
+                <coordinates>39.9955603,40.9483264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="663">
+            <name>node</name>
+            <description/>
+            <Point id="662">
+                <coordinates>39.9951307,40.9485662,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="665">
+            <name>node</name>
+            <description/>
+            <Point id="664">
+                <coordinates>39.9949999,40.9487002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="667">
+            <name>node</name>
+            <description/>
+            <Point id="666">
+                <coordinates>39.9949532,40.9488554,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="669">
+            <name>node</name>
+            <description/>
+            <Point id="668">
+                <coordinates>39.9950093,40.9490671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="671">
+            <name>node</name>
+            <description/>
+            <Point id="670">
+                <coordinates>39.9953082,40.9494339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="673">
+            <name>node</name>
+            <description/>
+            <Point id="672">
+                <coordinates>39.9976151,40.9501252,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="675">
+            <name>node</name>
+            <description/>
+            <Point id="674">
+                <coordinates>39.9983437,40.9484604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="677">
+            <name>node</name>
+            <description/>
+            <Point id="676">
+                <coordinates>39.9982409,40.9481712,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="679">
+            <name>node</name>
+            <description/>
+            <Point id="678">
+                <coordinates>39.9977926,40.9481712,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="681">
+            <name>node</name>
+            <description/>
+            <Point id="680">
+                <coordinates>39.9972042,40.9482911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="683">
+            <name>node</name>
+            <description/>
+            <Point id="682">
+                <coordinates>41.7791435,37.3168622,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="685">
+            <name>node</name>
+            <description/>
+            <Point id="684">
+                <coordinates>41.7758959,37.316653,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="687">
+            <name>node</name>
+            <description/>
+            <Point id="686">
+                <coordinates>41.7759516,37.3165865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="689">
+            <name>node</name>
+            <description/>
+            <Point id="688">
+                <coordinates>41.7760592,37.3165896,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="691">
+            <name>node</name>
+            <description/>
+            <Point id="690">
+                <coordinates>41.7756469,37.3176352,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="693">
+            <name>node</name>
+            <description/>
+            <Point id="692">
+                <coordinates>41.7821866,37.3171637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="695">
+            <name>node</name>
+            <description/>
+            <Point id="694">
+                <coordinates>41.7811655,37.3169916,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="697">
+            <name>node</name>
+            <description/>
+            <Point id="696">
+                <coordinates>41.7789133,37.3211284,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="699">
+            <name>node</name>
+            <description/>
+            <Point id="698">
+                <coordinates>41.7753938,37.3212607,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="701">
+            <name>node</name>
+            <description/>
+            <Point id="700">
+                <coordinates>41.7787789,37.3210492,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="703">
+            <name>node</name>
+            <description/>
+            <Point id="702">
+                <coordinates>41.7786294,37.3210484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="705">
+            <name>node</name>
+            <description/>
+            <Point id="704">
+                <coordinates>41.7752862,37.321229,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="707">
+            <name>node</name>
+            <description/>
+            <Point id="706">
+                <coordinates>41.7752224,37.3211308,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="709">
+            <name>node</name>
+            <description/>
+            <Point id="708">
+                <coordinates>41.77849,37.3211086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="711">
+            <name>node</name>
+            <description/>
+            <Point id="710">
+                <coordinates>41.7816629,37.3212195,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="713">
+            <name>node</name>
+            <description/>
+            <Point id="712">
+                <coordinates>41.781623,37.321279,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="715">
+            <name>node</name>
+            <description/>
+            <Point id="714">
+                <coordinates>41.7814985,37.3212988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="717">
+            <name>node</name>
+            <description/>
+            <Point id="716">
+                <coordinates>41.4249391,37.9031584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="719">
+            <name>node</name>
+            <description/>
+            <Point id="718">
+                <coordinates>41.4255679,37.9044886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="721">
+            <name>node</name>
+            <description/>
+            <Point id="720">
+                <coordinates>41.4253766,37.9027629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="723">
+            <name>node</name>
+            <description/>
+            <Point id="722">
+                <coordinates>41.427673,37.9029715,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="725">
+            <name>node</name>
+            <description/>
+            <Point id="724">
+                <coordinates>41.4290034,37.9029211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="727">
+            <name>node</name>
+            <description/>
+            <Point id="726">
+                <coordinates>41.4292404,37.9035251,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="729">
+            <name>node</name>
+            <description/>
+            <Point id="728">
+                <coordinates>41.4305252,37.9033741,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="731">
+            <name>node</name>
+            <description/>
+            <Point id="730">
+                <coordinates>41.4313454,37.9041723,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="733">
+            <name>node</name>
+            <description/>
+            <Point id="732">
+                <coordinates>41.429377,37.9063868,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="735">
+            <name>node</name>
+            <description/>
+            <Point id="734">
+                <coordinates>41.4288758,37.9042873,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="737">
+            <name>node</name>
+            <description/>
+            <Point id="736">
+                <coordinates>41.4276274,37.9046252,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="739">
+            <name>node</name>
+            <description/>
+            <Point id="738">
+                <coordinates>41.4322475,37.9047115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="741">
+            <name>node</name>
+            <description/>
+            <Point id="740">
+                <coordinates>41.4322567,37.9061064,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="743">
+            <name>node</name>
+            <description/>
+            <Point id="742">
+                <coordinates>41.4321291,37.90753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="745">
+            <name>node</name>
+            <description/>
+            <Point id="744">
+                <coordinates>41.4320197,37.9079039,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="747">
+            <name>node</name>
+            <description/>
+            <Point id="746">
+                <coordinates>41.3655198,38.03921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="749">
+            <name>node</name>
+            <description/>
+            <Point id="748">
+                <coordinates>41.3655982,38.0393809,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="751">
+            <name>node</name>
+            <description/>
+            <Point id="750">
+                <coordinates>41.3679977,38.0384788,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="753">
+            <name>node</name>
+            <description/>
+            <Point id="752">
+                <coordinates>41.3666412,38.038607,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="755">
+            <name>node</name>
+            <description/>
+            <Point id="754">
+                <coordinates>41.3681001,38.0390106,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="757">
+            <name>node</name>
+            <description/>
+            <Point id="756">
+                <coordinates>41.3674671,38.0394237,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="759">
+            <name>node</name>
+            <description/>
+            <Point id="758">
+                <coordinates>41.6014123,37.9344637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="761">
+            <name>node</name>
+            <description/>
+            <Point id="760">
+                <coordinates>41.602162,37.935406,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="763">
+            <name>node</name>
+            <description/>
+            <Point id="762">
+                <coordinates>41.6018857,37.9340384,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="765">
+            <name>node</name>
+            <description/>
+            <Point id="764">
+                <coordinates>41.6021183,37.9363588,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="767">
+            <name>node</name>
+            <description/>
+            <Point id="766">
+                <coordinates>41.602936,37.9336466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="769">
+            <name>node</name>
+            <description/>
+            <Point id="768">
+                <coordinates>41.6030887,37.9337508,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="771">
+            <name>node</name>
+            <description/>
+            <Point id="770">
+                <coordinates>41.6036029,37.9341777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="773">
+            <name>node</name>
+            <description/>
+            <Point id="772">
+                <coordinates>41.6022784,37.935096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="775">
+            <name>node</name>
+            <description/>
+            <Point id="774">
+                <coordinates>41.6048237,37.9351629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="777">
+            <name>node</name>
+            <description/>
+            <Point id="776">
+                <coordinates>41.6052476,37.9357504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="779">
+            <name>node</name>
+            <description/>
+            <Point id="778">
+                <coordinates>41.6051166,37.9359455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="781">
+            <name>node</name>
+            <description/>
+            <Point id="780">
+                <coordinates>41.6037193,37.9366572,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="783">
+            <name>node</name>
+            <description/>
+            <Point id="782">
+                <coordinates>42.5414329,40.496753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="785">
+            <name>node</name>
+            <description/>
+            <Point id="784">
+                <coordinates>42.5414239,40.4965945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="787">
+            <name>node</name>
+            <description/>
+            <Point id="786">
+                <coordinates>42.5416372,40.4965875,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="789">
+            <name>node</name>
+            <description/>
+            <Point id="788">
+                <coordinates>42.5416462,40.496746,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="791">
+            <name>node</name>
+            <description/>
+            <Point id="790">
+                <coordinates>42.7141105,41.4555691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="793">
+            <name>node</name>
+            <description/>
+            <Point id="792">
+                <coordinates>42.7161339,41.4560191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="795">
+            <name>node</name>
+            <description/>
+            <Point id="794">
+                <coordinates>42.7141559,41.4573591,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="797">
+            <name>node</name>
+            <description/>
+            <Point id="796">
+                <coordinates>42.713445,41.4578082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="799">
+            <name>node</name>
+            <description/>
+            <Point id="798">
+                <coordinates>42.7162627,41.4581156,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="801">
+            <name>node</name>
+            <description/>
+            <Point id="800">
+                <coordinates>42.7157887,41.4581675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="803">
+            <name>node</name>
+            <description/>
+            <Point id="802">
+                <coordinates>42.71471,41.4583421,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="805">
+            <name>node</name>
+            <description/>
+            <Point id="804">
+                <coordinates>42.7129722,41.4584719,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="807">
+            <name>node</name>
+            <description/>
+            <Point id="806">
+                <coordinates>42.719066,41.4551317,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="809">
+            <name>node</name>
+            <description/>
+            <Point id="808">
+                <coordinates>42.7173529,41.455566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="811">
+            <name>node</name>
+            <description/>
+            <Point id="810">
+                <coordinates>42.7163959,41.4581475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="813">
+            <name>node</name>
+            <description/>
+            <Point id="812">
+                <coordinates>42.7204764,41.4583828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="815">
+            <name>node</name>
+            <description/>
+            <Point id="814">
+                <coordinates>42.7168806,41.4589898,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="817">
+            <name>node</name>
+            <description/>
+            <Point id="816">
+                <coordinates>42.7172482,41.4589978,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="819">
+            <name>node</name>
+            <description/>
+            <Point id="818">
+                <coordinates>42.7179885,41.4591056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="821">
+            <name>node</name>
+            <description/>
+            <Point id="820">
+                <coordinates>42.7177435,41.4591096,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
