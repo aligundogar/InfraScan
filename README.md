@@ -27,11 +27,11 @@
 
 Install the dependencies with:
 
-```bash
+  ```bash
 
 pip install requests simplekml
 
-```
+  ```
   
 ---
 ## ⚙️ Usage
