@@ -34,31 +34,27 @@ pip install requests simplekml
   ```
   
 ---
+
 ## ⚙️ Usage
 
 1. **Clone the repository**
 
-   ```bash
-
-   git clone https://github.com/aligundogar/InfraScan.git
-
-   cd InfraScan
-
-   ```
+   ```bash
+   git clone https://github.com/aligundogar/InfraScan.git
+   cd InfraScan
+   ```
 
 2. **Prepare templates**
 
-   Add Overpass QL `.tpl` files inside the `templates/` directory.  
-
-   Each template must include `{country}` as a placeholder for ISO country codes.
+   Add Overpass QL `.tpl` files inside the `templates/` directory.  
+   Each template must include `{country}` as a placeholder for ISO country codes.
 
 3. **Run the tool**
 
-   ```bash
+   ```bash
+   python main.py
+   ```
 
-   python main.py
-
-   ```
 
 4. **Enter the country code**
    Example: `TR` for Turkey, `US` for United States.
