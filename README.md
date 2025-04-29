@@ -19,7 +19,7 @@
 - Organized KML outputs ready for mapping and analysis
 
 ---
-![[ss.jpg]]
+
 ## 🛠️ Requirements
 
 - Python 3.8+
